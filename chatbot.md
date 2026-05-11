@@ -1,16 +1,15 @@
 # Titre du chatbot
 
-Message initial
+Je t'aime
 
-1. [Premier choix](choix 1)
-2. [Deuxième choix](choix 2)
+1. [moi aussi](choix 1)
+2. [Moi non plus](choix 2)
 
 ## choix 1
-Message pour le choix 1
+Love ❤❤
 
 ## choix 2
-- déclencheur 1
-- déclencheur 2
+T pas sympa
 
 Message pour le choix 2
 
